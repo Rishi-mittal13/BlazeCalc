@@ -60,7 +60,7 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8p
     margin-top: 15vh;
     font-size: 20px;
 }
-button:hover{
+button:active{
     background: rgb(199,146,40);
 background: linear-gradient(90deg, rgba(199,146,40,1) 0%, rgba(213,103,103,1) 47%, rgba(210,20,20,1) 100%);
 }
